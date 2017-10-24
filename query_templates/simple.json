@@ -1,0 +1,7 @@
+{
+"template": 
+{ "id": "${__eval(${TEMPLATE})}" } 
+,
+"params": 
+{ "my_value" : "${__eval(${SEARCH_TERM})}" ,"my_size" : 100 , "my_from" : 0 } 
+}

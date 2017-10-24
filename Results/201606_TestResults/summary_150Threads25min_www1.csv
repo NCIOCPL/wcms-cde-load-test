@@ -1,0 +1,12 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+bzm - Concurrency Thread Group:Request First Page,17626,2271,40,12254,1063.92,1.24%,11.6,1353.36,119552.8
+bzm - Concurrency Thread Group:Request Second Page,17579,2276,10,12177,1095.68,1.09%,11.6,1344.87,118958.5
+bzm - Concurrency Thread Group:Execute Site Wide Search,4071,2325,75,7521,978.76,0.10%,2.7,204.36,77933.1
+bzm - Concurrency Thread Group:Fetch First Site Wide Search Result,3350,75,6,1877,102.80,21.52%,2.2,240.81,111240.1
+bzm - Concurrency Thread Group:Main Dictionary Search Page,4035,4011,430,11468,1143.88,0.20%,2.7,3140.22,1201360.1
+bzm - Concurrency Thread Group:Do Dictionary Search,4021,4433,18,11573,1757.81,0.20%,2.7,216.91,83357.6
+bzm - Concurrency Thread Group:Fetch Random Dictionary Search Result,880,2416,97,6508,936.32,0.00%,.6,46.40,81002.2
+bzm - Concurrency Thread Group:CTS Advanced Search Page,1353,2209,49,6282,994.26,0.22%,.9,57.74,65589.8
+bzm - Concurrency Thread Group:Do CTS Search,1347,2447,70,5980,948.20,0.30%,.9,86.89,99069.5
+bzm - Concurrency Thread Group:Fetch Random CTS Search Result,1278,2371,60,8477,1062.26,0.31%,.9,89.68,107420.3
+TOTAL,55540,2435,6,12254,1427.85,2.09%,36.5,6743.68,189084.5
